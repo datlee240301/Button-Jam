@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a176b209e7029f14492721f188e8a171, type: 3}
+  m_Name: ButtonConfig 15
+  m_EditorClassIdentifier: 
+  buttonsData:
+  - gridPosition: {x: 0, y: 0}
+    buttonSprite: {fileID: 21300000, guid: fa98ad0616e4efc4c8c38542ea3d43b6, type: 3}
+  - gridPosition: {x: 0, y: 1}
+    buttonSprite: {fileID: 21300000, guid: 15b267321bc216c499fc7285a303a9be, type: 3}
+  - gridPosition: {x: 0, y: 2}
+    buttonSprite: {fileID: 21300000, guid: 1ed4f0a2bc134ad4b92c55803a2704d8, type: 3}
+  - gridPosition: {x: 0, y: 3}
+    buttonSprite: {fileID: 21300000, guid: 1ed4f0a2bc134ad4b92c55803a2704d8, type: 3}
+  - gridPosition: {x: 0, y: 4}
+    buttonSprite: {fileID: 21300000, guid: 51f4343c553b99a47b523b035e0983ed, type: 3}
+  - gridPosition: {x: 1, y: 0}
+    buttonSprite: {fileID: 21300000, guid: ed59d5cc954afb14f9ac72f84fa97ee6, type: 3}
+  - gridPosition: {x: 1, y: 1}
+    buttonSprite: {fileID: 21300000, guid: 51f4343c553b99a47b523b035e0983ed, type: 3}
+  - gridPosition: {x: 1, y: 2}
+    buttonSprite: {fileID: 21300000, guid: 1ed4f0a2bc134ad4b92c55803a2704d8, type: 3}
+  - gridPosition: {x: 1, y: 3}
+    buttonSprite: {fileID: 21300000, guid: 51f4343c553b99a47b523b035e0983ed, type: 3}
+  - gridPosition: {x: 1, y: 4}
+    buttonSprite: {fileID: 21300000, guid: 198727c6121af1c4ebedfcdb21f6b9d2, type: 3}
+  - gridPosition: {x: 2, y: 0}
+    buttonSprite: {fileID: 21300000, guid: fa98ad0616e4efc4c8c38542ea3d43b6, type: 3}
+  - gridPosition: {x: 2, y: 1}
+    buttonSprite: {fileID: 21300000, guid: ed59d5cc954afb14f9ac72f84fa97ee6, type: 3}
+  - gridPosition: {x: 2, y: 2}
+    buttonSprite: {fileID: 21300000, guid: fa98ad0616e4efc4c8c38542ea3d43b6, type: 3}
+  - gridPosition: {x: 2, y: 3}
+    buttonSprite: {fileID: 21300000, guid: 15b267321bc216c499fc7285a303a9be, type: 3}
+  - gridPosition: {x: 2, y: 4}
+    buttonSprite: {fileID: 21300000, guid: 1ed4f0a2bc134ad4b92c55803a2704d8, type: 3}
+  - gridPosition: {x: 3, y: 0}
+    buttonSprite: {fileID: 21300000, guid: fa98ad0616e4efc4c8c38542ea3d43b6, type: 3}
+  - gridPosition: {x: 3, y: 1}
+    buttonSprite: {fileID: 21300000, guid: 51f4343c553b99a47b523b035e0983ed, type: 3}
+  - gridPosition: {x: 3, y: 2}
+    buttonSprite: {fileID: 21300000, guid: 198727c6121af1c4ebedfcdb21f6b9d2, type: 3}
+  - gridPosition: {x: 3, y: 3}
+    buttonSprite: {fileID: 21300000, guid: 198727c6121af1c4ebedfcdb21f6b9d2, type: 3}
+  - gridPosition: {x: 3, y: 4}
+    buttonSprite: {fileID: 21300000, guid: 15b267321bc216c499fc7285a303a9be, type: 3}
+  - gridPosition: {x: 4, y: 0}
+    buttonSprite: {fileID: 21300000, guid: fa98ad0616e4efc4c8c38542ea3d43b6, type: 3}
+  - gridPosition: {x: 4, y: 1}
+    buttonSprite: {fileID: 21300000, guid: 198727c6121af1c4ebedfcdb21f6b9d2, type: 3}
+  - gridPosition: {x: 4, y: 2}
+    buttonSprite: {fileID: 21300000, guid: 198727c6121af1c4ebedfcdb21f6b9d2, type: 3}
+  - gridPosition: {x: 4, y: 3}
+    buttonSprite: {fileID: 21300000, guid: ed59d5cc954afb14f9ac72f84fa97ee6, type: 3}
+  - gridPosition: {x: 4, y: 4}
+    buttonSprite: {fileID: 21300000, guid: fa98ad0616e4efc4c8c38542ea3d43b6, type: 3}
